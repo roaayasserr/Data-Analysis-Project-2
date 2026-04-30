@@ -1,0 +1,62 @@
+Timestamp,age_group,gender,study_hours,music_frequency,music_type,familiarity,preferred_task,environment,productivity_score,distraction_score,focus_shielding_score,stress_reduction
+2026/04/05 4:58:27 PM GMT+2,,Female,3-5 hours,Often,Rap,Familiar (Songs I’ve heard 100 times),Reading,Total silence (Library/Private room),3,3,3,Yes
+2026/04/05 5:00:28 PM GMT+2,18–21,Female,0–2 hours,Rarely,Pop,No preference,Solving problems (math/programming),Controlled Audio (Headphones in any environment),4,1,4,No
+2026/04/05 5:01:11 PM GMT+2,18–21,Female,0–2 hours,Sometimes,Pop,New (Discovering fresh playlists),Writing,Controlled Audio (Headphones in any environment),1,1,1,Maybe
+2026/04/05 5:16:34 PM GMT+2,18–21,Female,3-5 hours,Sometimes,Instrumental,No preference,Memorization,Controlled Audio (Headphones in any environment),1,2,2,Maybe
+2026/04/05 5:19:20 PM GMT+2,18–21,Female,6+ hours,Always,My music taste is very diverse. I listen to all kinds of music,Familiar (Songs I’ve heard 100 times),Writing,Controlled Audio (Headphones in any environment),4,3,5,Maybe
+2026/04/05 5:38:01 PM GMT+2,18–21,Female,0–2 hours,Rarely,N/A,New (Discovering fresh playlists),I don’t study with music,Moderate (Coffee shop/Public space),3,5,3,Maybe
+2026/04/05 6:12:17 PM GMT+2,18–21,Male,0–2 hours,Rarely,idk,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),3,3,3,Maybe
+2026/04/05 6:16:44 PM GMT+2,18–21,Female,0–2 hours,Often,Instrumental,New (Discovering fresh playlists),Solving problems (math/programming),Moderate (Coffee shop/Public space),3,4,4,Yes
+2026/04/05 6:33:50 PM GMT+2,18–21,Female,0–2 hours,Often,Rap,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Controlled Audio (Headphones in any environment),4,3,5,Yes
+2026/04/05 6:34:19 PM GMT+2,18–21,Male,3-5 hours,Never,N/A,No preference,Solving problems (math/programming),Moderate (Coffee shop/Public space),4,3,2,Maybe
+2026/04/05 6:34:50 PM GMT+2,18–21,Male,0–2 hours,Often,Pop,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Moderate (Coffee shop/Public space),4,4,3,No
+2026/04/05 6:34:59 PM GMT+2,18–21,Female,3-5 hours,Sometimes,N/A,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Moderate (Coffee shop/Public space),3,4,4,Maybe
+2026/04/05 6:35:49 PM GMT+2,18–21,Male,3-5 hours,Sometimes,Instrumental,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),4,4,2,No
+2026/04/05 6:35:52 PM GMT+2,18–21,Female,0–2 hours,Rarely,Instrumental,No preference,Solving problems (math/programming),Moderate (Coffee shop/Public space),3,4,2,No
+2026/04/05 6:37:06 PM GMT+2,18–21,Male,3-5 hours,Sometimes,Instrumental,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Moderate (Coffee shop/Public space),3,1,5,Yes
+2026/04/05 6:37:09 PM GMT+2,21+,Male,3-5 hours,Never,N/A,No preference,I don’t study with music,Total silence (Library/Private room),1,1,1,No
+2026/04/05 6:37:33 PM GMT+2,18–21,Male,3-5 hours,Rarely,"Background noise(rain sounds, white noise)",Familiar (Songs I’ve heard 100 times),Writing,Total silence (Library/Private room),3,2,4,Maybe
+2026/04/05 6:38:01 PM GMT+2,18–21,Male,0–2 hours,Always,Instrumental,No preference,Reading;Writing;Solving problems (math/programming),Controlled Audio (Headphones in any environment),4,1,1,Yes
+2026/04/05 6:41:45 PM GMT+2,18–21,Male,0–2 hours,Rarely,Rap,Familiar (Songs I’ve heard 100 times),I don’t study with music,Moderate (Coffee shop/Public space),5,3,1,No
+2026/04/05 6:48:00 PM GMT+2,18–21,Male,0–2 hours,Always,Pop,Familiar (Songs I’ve heard 100 times),Writing;Solving problems (math/programming),Total silence (Library/Private room),4,2,4,Maybe
+2026/04/05 6:58:19 PM GMT+2,18–21,Female,0–2 hours,Always,jazz,Familiar (Songs I’ve heard 100 times),Reading;Writing,Controlled Audio (Headphones in any environment),4,4,5,Yes
+2026/04/05 7:07:49 PM GMT+2,18–21,Female,0–2 hours,Often,Rap,Familiar (Songs I’ve heard 100 times),Writing;Solving problems (math/programming),Controlled Audio (Headphones in any environment),4,2,5,Yes
+2026/04/05 7:21:47 PM GMT+2,21+,Female,3-5 hours,Sometimes,"Background noise(rain sounds, white noise)",Familiar (Songs I’ve heard 100 times),Reading,Moderate (Coffee shop/Public space),3,2,4,Yes
+2026/04/05 7:26:52 PM GMT+2,18–21,Male,0–2 hours,Sometimes,Pop,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),2,5,3,Yes
+2026/04/05 7:27:45 PM GMT+2,18–21,Female,0–2 hours,Rarely,"Background noise(rain sounds, white noise)",No preference,Solving problems (math/programming),Moderate (Coffee shop/Public space),3,3,3,No
+2026/04/05 7:40:57 PM GMT+2,18–21,Female,0–2 hours,Sometimes,Pop,Familiar (Songs I’ve heard 100 times),Writing;Solving problems (math/programming),Total silence (Library/Private room),2,5,3,Maybe
+2026/04/05 7:44:34 PM GMT+2,21+,Female,0–2 hours,Sometimes,"Background noise(rain sounds, white noise)",Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Moderate (Coffee shop/Public space),3,3,3,Yes
+2026/04/05 7:45:53 PM GMT+2,18–21,Female,0–2 hours,Always,Rap,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Moderate (Coffee shop/Public space),4,2,5,No
+2026/04/05 8:00:32 PM GMT+2,18–21,Female,0–2 hours,Always,Rap,Familiar (Songs I’ve heard 100 times),Reading;Writing;Solving problems (math/programming),Controlled Audio (Headphones in any environment),5,3,5,Yes
+2026/04/05 8:11:58 PM GMT+2,18–21,Female,0–2 hours,Often,Rap,Familiar (Songs I’ve heard 100 times),Writing;Solving problems (math/programming);Memorization,Total silence (Library/Private room),4,2,4,Yes
+2026/04/05 8:24:44 PM GMT+2,18–21,Male,0–2 hours,Often,N/A,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),4,5,1,Maybe
+2026/04/05 8:31:52 PM GMT+2,21+,Male,0–2 hours,Sometimes,Pop,Familiar (Songs I’ve heard 100 times),Writing,Total silence (Library/Private room),2,5,3,Yes
+2026/04/05 8:38:00 PM GMT+2,21+,Male,0–2 hours,Always,N/A,Familiar (Songs I’ve heard 100 times),Reading;Writing,Moderate (Coffee shop/Public space),4,2,3,Maybe
+2026/04/05 8:39:45 PM GMT+2,18–21,Male,3-5 hours,Rarely,Instrumental,New (Discovering fresh playlists),I don’t study with music,Controlled Audio (Headphones in any environment),1,2,4,No
+2026/04/05 8:40:05 PM GMT+2,21+,Female,6+ hours,Always,Pop,Familiar (Songs I’ve heard 100 times),Reading;Solving problems (math/programming),Controlled Audio (Headphones in any environment),5,1,5,Yes
+2026/04/05 8:40:09 PM GMT+2,21+,Female,0–2 hours,Sometimes,My personal favourite and things matches my current mood,Familiar (Songs I’ve heard 100 times),Writing;Solving problems (math/programming),Moderate (Coffee shop/Public space),3,4,4,Maybe
+2026/04/05 8:48:50 PM GMT+2,21+,Female,0–2 hours,Sometimes,Instrumental,New (Discovering fresh playlists),Solving problems (math/programming),Moderate (Coffee shop/Public space),4,3,3,Maybe
+2026/04/05 8:57:53 PM GMT+2,21+,Male,0–2 hours,Always,"Background noise(rain sounds, white noise)",Familiar (Songs I’ve heard 100 times),Reading;Writing;Solving problems (math/programming);Memorization,Moderate (Coffee shop/Public space),4,2,4,Yes
+2026/04/05 9:03:34 PM GMT+2,21+,Male,6+ hours,Never,Instrumental,Familiar (Songs I’ve heard 100 times),Writing;I don’t study with music,Moderate (Coffee shop/Public space),2,5,2,Maybe
+2026/04/05 9:08:06 PM GMT+2,18–21,Female,3-5 hours,Always,Pop,Familiar (Songs I’ve heard 100 times),Reading;Solving problems (math/programming),Controlled Audio (Headphones in any environment),5,4,4,Yes
+2026/04/05 9:09:30 PM GMT+2,18–21,Male,3-5 hours,Never,N/A,Familiar (Songs I’ve heard 100 times),I don’t study with music,Total silence (Library/Private room),1,2,1,No
+2026/04/05 9:10:22 PM GMT+2,21+,Female,6+ hours,Sometimes,Pop,Familiar (Songs I’ve heard 100 times),Writing,Total silence (Library/Private room),2,5,5,Yes
+2026/04/05 9:12:37 PM GMT+2,21+,Female,0–2 hours,Often,N/A,Familiar (Songs I’ve heard 100 times),Writing,Controlled Audio (Headphones in any environment),4,5,3,Yes
+2026/04/05 9:15:57 PM GMT+2,Under 18,Female,3-5 hours,Always,"Background noise(rain sounds, white noise)",Familiar (Songs I’ve heard 100 times),Writing;Solving problems (math/programming),Moderate (Coffee shop/Public space),3,1,3,Yes
+2026/04/05 9:22:12 PM GMT+2,Under 18,Female,3-5 hours,Sometimes,Instrumental,Familiar (Songs I’ve heard 100 times),Reading,Total silence (Library/Private room),3,5,5,Maybe
+2026/04/05 9:27:16 PM GMT+2,Under 18,Female,3-5 hours,Rarely,Pop,Familiar (Songs I’ve heard 100 times),Writing;Solving problems (math/programming),Total silence (Library/Private room),2,4,1,Maybe
+2026/04/05 9:34:51 PM GMT+2,Under 18,Female,0–2 hours,Always,Pop,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),5,3,5,Yes
+2026/04/05 9:52:03 PM GMT+2,18–21,Male,3-5 hours,Always,alternative/indie,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),4,3,5,Yes
+2026/04/05 10:04:59 PM GMT+2,21+,Female,3-5 hours,Sometimes,Pop,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),3,4,4,Maybe
+2026/04/05 10:16:33 PM GMT+2,Under 18,Female,0–2 hours,Sometimes,Pop,Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),3,3,3,Maybe
+2026/04/05 10:55:21 PM GMT+2,Under 18,Female,0–2 hours,Sometimes,Pop,Familiar (Songs I’ve heard 100 times),Writing,Total silence (Library/Private room),2,4,1,Yes
+2026/04/05 11:28:10 PM GMT+2,18–21,Female,3-5 hours,Often,Instrumental,Familiar (Songs I’ve heard 100 times),Writing,Moderate (Coffee shop/Public space),1,2,2,Maybe
+2026/04/05 11:59:59 PM GMT+2,18–21,Female,3-5 hours,Sometimes,"Background noise(rain sounds, white noise)",Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),3,2,4,Maybe
+2026/04/06 4:24:36 AM GMT+2,18–21,Female,3-5 hours,Rarely,"Background noise(rain sounds, white noise)",Familiar (Songs I’ve heard 100 times),Writing;Memorization,Moderate (Coffee shop/Public space),2,4,5,Maybe
+2026/04/06 4:27:39 AM GMT+2,21+,Female,3-5 hours,Sometimes,Instrumental,No preference,Solving problems (math/programming),Moderate (Coffee shop/Public space),3,3,3,Maybe
+2026/04/06 4:47:05 AM GMT+2,21+,Female,0–2 hours,Rarely,"Background noise(rain sounds, white noise)",Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),2,4,4,Yes
+2026/04/06 7:17:22 AM GMT+2,18–21,Female,3-5 hours,Never,"Background noise(rain sounds, white noise)",Familiar (Songs I’ve heard 100 times),I don’t study with music,Total silence (Library/Private room),1,1,1,No
+2026/04/06 8:02:41 AM GMT+2,18–21,Female,3-5 hours,Rarely,"Background noise(rain sounds, white noise)",New (Discovering fresh playlists),Solving problems (math/programming),Total silence (Library/Private room),1,5,1,No
+2026/04/06 9:10:26 AM GMT+2,18–21,Male,0–2 hours,Always,Rap,No preference,Writing;Solving problems (math/programming);Memorization,Total silence (Library/Private room),4,3,3,No
+2026/04/06 5:40:24 PM GMT+2,18–21,Male,0–2 hours,Often,Rap,No preference,Reading;Writing;Solving problems (math/programming),Total silence (Library/Private room),4,1,4,Maybe
+2026/04/06 9:18:07 PM GMT+2,Under 18,Female,3-5 hours,Often,"Background noise(rain sounds, white noise)",Familiar (Songs I’ve heard 100 times),Solving problems (math/programming),Total silence (Library/Private room),3,5,3,Yes
