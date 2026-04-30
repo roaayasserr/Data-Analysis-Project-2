@@ -1,4 +1,4 @@
-# Project-2-DA
+# Data Analysis Project 2
 
 ## Description 
 This project explores the relationship between listening to music while studying and its effect on focus and productivity. Data was collected using a survey and analyzed using Python.
